@@ -1,0 +1,3 @@
+[submodule "ProjetoFinal"]
+	path = ProjetoFinal
+	url = git@github.com:pmarcallima/ProjetoFinal-Trilha-Dotnet.git
