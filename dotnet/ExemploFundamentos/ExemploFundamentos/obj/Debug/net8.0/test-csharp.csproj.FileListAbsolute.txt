@@ -1,0 +1,15 @@
+/home/pedro/personal/test-csharp/bin/Debug/net8.0/test-csharp
+/home/pedro/personal/test-csharp/bin/Debug/net8.0/test-csharp.deps.json
+/home/pedro/personal/test-csharp/bin/Debug/net8.0/test-csharp.runtimeconfig.json
+/home/pedro/personal/test-csharp/bin/Debug/net8.0/test-csharp.dll
+/home/pedro/personal/test-csharp/bin/Debug/net8.0/test-csharp.pdb
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.AssemblyInfoInputs.cache
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.AssemblyInfo.cs
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.csproj.CoreCompileInputs.cache
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.sourcelink.json
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.dll
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/refint/test-csharp.dll
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.pdb
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/test-csharp.genruntimeconfig.cache
+/home/pedro/personal/test-csharp/obj/Debug/net8.0/ref/test-csharp.dll

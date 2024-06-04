@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HV54WqBCgEFButXtoDiPheqhoFbx0yzanv+m+RYoCds28DDE6uyIpRFRiQESOB5ZheZLJqFuOXZMG0lHFLkTpw==",
+  "success": true,
+  "projectFilePath": "/home/pedro/personal/dotnet/ExemploExplorer/ExemploExplorer.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

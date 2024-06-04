@@ -1,0 +1,15 @@
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfoInputs.cache
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfo.cs
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.sourcelink.json
+/home/pedro/personal/dotnet/ExemploPOO/bin/Debug/net8.0/ExemploPOO
+/home/pedro/personal/dotnet/ExemploPOO/bin/Debug/net8.0/ExemploPOO.deps.json
+/home/pedro/personal/dotnet/ExemploPOO/bin/Debug/net8.0/ExemploPOO.runtimeconfig.json
+/home/pedro/personal/dotnet/ExemploPOO/bin/Debug/net8.0/ExemploPOO.dll
+/home/pedro/personal/dotnet/ExemploPOO/bin/Debug/net8.0/ExemploPOO.pdb
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.dll
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/refint/ExemploPOO.dll
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.pdb
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ExemploPOO.genruntimeconfig.cache
+/home/pedro/personal/dotnet/ExemploPOO/obj/Debug/net8.0/ref/ExemploPOO.dll
