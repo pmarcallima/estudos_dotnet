@@ -1,3 +1,24 @@
 [submodule "ProjetoFinal"]
 	path = ProjetoFinal
 	url = git@github.com:pmarcallima/ProjetoFinal-Trilha-Dotnet.git
+[submodule "dotnet/ProjetoFinal"]
+	path = dotnet/ProjetoFinal
+	url = git@github.com:pmarcallima/ProjetoFinal-Trilha-Dotnet.git
+[submodule "dotnet/TestesUnitarios"]
+	path = dotnet/TestesUnitarios
+	url = git@github.com:pmarcallima/trilha-net-testes-unitarios-desafio.git
+[submodule "dotnet/WebAPIs"]
+	path = dotnet/WebAPIs
+	url = git@github.com:pmarcallima/trilha-net-api-desafio.git
+[submodule "dotnet/BancoDeDados"]
+	path = dotnet/BancoDeDados
+	url = git@github.com:pmarcallima/trilha-net-banco-de-dados-desafio.git
+[submodule "dotnet/Poo"]
+	path = dotnet/Poo
+	url = git@github.com:pmarcallima/trilha-net-poo-desafio.git
+[submodule "dotnet/Explorando"]
+	path = dotnet/Explorando
+	url = git@github.com:pmarcallima/trilha-net-explorando-desafio.git
+[submodule "dotnet/Fundamentos"]
+	path = dotnet/Fundamentos
+	url = git@github.com:pmarcallima/trilha-net-fundamentos-desafio.git
